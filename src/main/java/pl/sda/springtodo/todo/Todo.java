@@ -1,5 +1,7 @@
 package pl.sda.springtodo.todo;
 
+import pl.sda.springtodo.author.Author;
+
 import javax.persistence.Entity;
 import java.util.Date;
 
@@ -10,15 +12,17 @@ public class Todo {
     private String description;
     private Date date;
     private boolean done;
+    private Author author;
 
     public Todo() {
     }
 
-    public Todo(String title, String description, Date date) {
+    public Todo(String title, String description, Date date, Author author) {
         this.title = title;
         this.description = description;
         this.date = date;
         this.done = false;
+        this.author = author;
     }
 
     public long getId() {
@@ -59,5 +63,13 @@ public class Todo {
 
     public void setDone(boolean done) {
         this.done = done;
+    }
+
+    public Author getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(Author author) {
+        this.author = author;
     }
 }
