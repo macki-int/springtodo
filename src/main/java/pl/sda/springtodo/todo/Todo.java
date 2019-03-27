@@ -1,4 +1,4 @@
-package pl.sda.springtodo;
+package pl.sda.springtodo.todo;
 
 import javax.persistence.Entity;
 import java.util.Date;
