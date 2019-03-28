@@ -2,7 +2,7 @@ package pl.sda.springtodo.author;
 
 import javax.persistence.Entity;
 
-@Entity
+//@Entity
 public class Author {
     private String firstaName;
     private String lastName;

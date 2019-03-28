@@ -5,7 +5,7 @@ import pl.sda.springtodo.author.Author;
 import javax.persistence.Entity;
 import java.util.Date;
 
-@Entity
+//@Entity
 public class Todo {
     private long id;
     private String title;
