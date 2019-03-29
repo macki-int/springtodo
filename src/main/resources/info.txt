@@ -1,5 +1,5 @@
 http://bykowski.pl/http-communicator-z-resttemplate-vaadin-springboot/
-
+https://kobietydokodu.pl/niezbednik-juniora-adnotacje/
 
 https://www.baeldung.com/spring-profiles
 https://dzone.com/articles/spring-boot-profiles-1
