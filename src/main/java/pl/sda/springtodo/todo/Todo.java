@@ -1,12 +1,16 @@
 package pl.sda.springtodo.todo;
 
+import org.springframework.stereotype.Component;
 import pl.sda.springtodo.author.Author;
 
-import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
 import java.util.Date;
 
-//@Entity
+@Component
 public class Todo {
+    @Id
+    @GeneratedValue
     private long id;
     private String title;
     private String description;
