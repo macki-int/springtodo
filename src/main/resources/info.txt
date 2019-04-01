@@ -4,7 +4,7 @@ https://kobietydokodu.pl/niezbednik-juniora-adnotacje/
 https://www.baeldung.com/spring-profiles
 https://dzone.com/articles/spring-boot-profiles-1
 https://techstyle.pl/2018/07/29/pierwszy-program-boot/
-http://namiekko.pl/tag/spring-boot/
+http://namiekko.pl/tag/spring-boot/ !!!!!!!!!!
 http://bykowski.pl/spring-boot/
 https://www.youtube.com/watch?v=E4_NzCfxwko
 https://www.google.com/search?q=soring+boot+kroki&rlz=1C1GCEU_plPL812PL819&oq=soring+boot+kroki&aqs=chrome..69i57.10967j0j1&sourceid=chrome&ie=UTF-8
