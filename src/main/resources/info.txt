@@ -1,5 +1,10 @@
 http://bykowski.pl/http-communicator-z-resttemplate-vaadin-springboot/
 https://kobietydokodu.pl/niezbednik-juniora-adnotacje/
+https://devlab.com.pl/2018/10/08/materialy-do-webinaru-1-spring-boot/
+https://geek.justjoin.it/tworzenie-aplikacji-reaktywnych-spring-boot/
+https://zielware.wordpress.com/2019/01/19/prosta-aplikacja-webowa-w-spring-boot-niecodzienny-tutorial/
+https://steemit.com/pl-artykuly/@grzegorz2047/java-spring-boot-1-postawienie-prostego-restowego-endpointa
+http://blog.mloza.pl/spring-boot-szybkie-tworzenie-aplikacji-web-w-javie/
 
 https://www.baeldung.com/spring-profiles
 https://dzone.com/articles/spring-boot-profiles-1
