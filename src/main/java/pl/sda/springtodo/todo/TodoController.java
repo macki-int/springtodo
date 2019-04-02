@@ -11,14 +11,13 @@ public class TodoController {
 
     @ResponseBody
     String getTodos(){
-        return "TODOs";
+        return "todos";
     }
 
     @RequestMapping("/todo")
     @ResponseBody
     String getTodo(){
-        return "TODO";
+        return "todo";
     }
-
 
 }
