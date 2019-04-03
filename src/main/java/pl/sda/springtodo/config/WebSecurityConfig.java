@@ -31,6 +31,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
         http.authorizeRequests()
                 .antMatchers("/").permitAll()
                 .antMatchers("/todo").permitAll()
+                .antMatchers("/todo").permitAll()
                 .anyRequest().fullyAuthenticated();
 
         //http.csrf();
