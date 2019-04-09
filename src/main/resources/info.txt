@@ -18,3 +18,8 @@ https://www.google.com/search?q=soring+boot+kroki&rlz=1C1GCEU_plPL812PL819&oq=so
 https://javastart.pl/baza-wiedzy/frameworki/hibernate
 https://www.youtube.com/watch?v=Lvxy5GaArvo
 https://bs4.kursbootstrap.pl/tutorial/
+
+
+
+https://github.com/griddb/griddb_nosql?gclid=Cj0KCQjw4qvlBRDiARIsAHme6ovmYHeugvM-DNsaZKI0OGov1ofJ2NdLFXpwqxyMjSXWH5xJmtkgKBkaApBdEALw_wcB
+
